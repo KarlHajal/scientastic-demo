@@ -1,0 +1,16 @@
+Anatomical illustration
+
+The anatomical section adapts "Respiratory system complete no labels.svg"
+by Bibi Saint-Pol and Jmarchn.
+Source: https://commons.wikimedia.org/wiki/File:Respiratory_system_complete_no_labels.svg
+License: Creative Commons Attribution-ShareAlike 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+
+The adaptation crops and mirrors the head and neck, changes tissue colors,
+and animates the tongue and vocal folds. The adapted illustration is
+distributed under the same license. This statement concerns the anatomical
+illustration, not institutional logos or research recordings.
+
+Three.js
+
+The bundled Three.js modules use the MIT license in vendor/three/LICENSE.
