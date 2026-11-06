@@ -1,0 +1,418 @@
+{
+  "version": 1,
+  "pairs": [
+    {
+      "id": "pair-03",
+      "language": "en",
+      "sentence": "Hey Google, sing me a song.",
+      "translations": {
+        "fr": "Dis Google, chante-moi une chanson.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-calm-song.wav",
+        "kind": "synthesized",
+        "sha256": "ba5c8e9fb91d5186d0e6ed3f215fb9f2fab804973b57df98b9c7acc2b5d2be73"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-03-human.wav",
+        "kind": "human",
+        "sha256": "9fcb8fdd33f5fb32d5ae0ca248c74e0539998829448123d40a6af1978238ddbd"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-02",
+      "language": "en",
+      "sentence": "Hey Google, sing me a song.",
+      "translations": {
+        "fr": "Dis Google, chante-moi une chanson.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-calm-song.wav",
+        "kind": "synthesized",
+        "sha256": "ba5c8e9fb91d5186d0e6ed3f215fb9f2fab804973b57df98b9c7acc2b5d2be73"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-02-human.wav",
+        "kind": "human",
+        "sha256": "6b7f009c6d3928f1480144cdf24e12d06bb956fcedf6e047c8c3e63972b4d9a2"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-01",
+      "language": "en",
+      "sentence": "What's the weather like today?",
+      "translations": {
+        "fr": "Quel temps fait-il aujourd’hui ?",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-02.wav",
+        "kind": "synthesized",
+        "sha256": "2400975566993aab05675e9bc0e4faa50cf39c142f994abf94e7caefb0380db4"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-01-human.wav",
+        "kind": "human",
+        "sha256": "9a07b6872fc6d75e5b9aeb0df4a15c073981dcc326538e0a8111887c167d4c0c"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-04",
+      "language": "en",
+      "sentence": "Lock the front door.",
+      "translations": {
+        "fr": "Verrouille la porte d’entrée.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-03.wav",
+        "kind": "synthesized",
+        "sha256": "2a5f139df4aa31ffafe448b026bde14b4a42ea286f4b7f96846e1060b3bd0a08"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-04-human.wav",
+        "kind": "human",
+        "sha256": "547f031a43caf5ff6bb798937be5b8cc114dbb32b9085b9e60af8f5ac514f4e4"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-05",
+      "language": "en",
+      "sentence": "Lock the front door.",
+      "translations": {
+        "fr": "Verrouille la porte d’entrée.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-03.wav",
+        "kind": "synthesized",
+        "sha256": "2a5f139df4aa31ffafe448b026bde14b4a42ea286f4b7f96846e1060b3bd0a08"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-05-human.wav",
+        "kind": "human",
+        "sha256": "9760951bc2051e031cde5ed92e755cbf6dc91c7b7871aa64e14513086a04d71f"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-06",
+      "language": "en",
+      "sentence": "Recipe with pineapple, bananas, and orange juice.",
+      "translations": {
+        "fr": "Une recette avec de l’ananas, des bananes et du jus d’orange.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-04.wav",
+        "kind": "synthesized",
+        "sha256": "1e885b8592933c869310994ec647e1b1f069c19fa752ba5e04bc4b1934dad870"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-06-human.wav",
+        "kind": "human",
+        "sha256": "40764142a424a84430deba91f6b6fc24db03ad968b6e131431717f570ec67f0b"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-07",
+      "language": "en",
+      "sentence": "You can imagine how surprised and puzzled she was.",
+      "translations": {
+        "fr": "Tu peux imaginer à quel point elle était surprise et perplexe.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-05.wav",
+        "kind": "synthesized",
+        "sha256": "78fc1b545bec1d9c0ced28b80f3de07899e459287c9d8527e2d72acb37261b6d"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-07-human.wav",
+        "kind": "human",
+        "sha256": "bb5eb3b8e980d3a401c9ef2d9ce409d3f22c96dcc0fa52bff974922ef697dc8f"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-08",
+      "language": "en",
+      "sentence": "Wake me up at 6:45 AM every day.",
+      "translations": {
+        "fr": "Réveille-moi à six heures quarante-cinq tous les jours.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-06.wav",
+        "kind": "synthesized",
+        "sha256": "65eb412b90f3b78f9cf991da65e14559bb4df01ce6325e30c77cf21e8c976a3a"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-08-human.wav",
+        "kind": "human",
+        "sha256": "a3ff1e7b88738421c65f7bbe4000a630f565fb5d9f812f97d42fd4c39bed5d62"
+      },
+      "observations": []
+    },
+    {
+      "id": "pair-09",
+      "language": "en",
+      "sentence": "Is my order shipped, question mark.",
+      "translations": {
+        "fr": "Ma commande a-t-elle été expédiée, point d’interrogation.",
+        "en": ""
+      },
+      "typical": {
+        "src": "/media/recordings/qwen3-ryan-07.wav",
+        "kind": "synthesized",
+        "sha256": "97818c195848b65464fe47d93fdf6aeed062de85ffcad3b98ef319e6de02fb9b"
+      },
+      "atypical": {
+        "src": "/media/recordings/choice-09-human.wav",
+        "kind": "human",
+        "sha256": "d857e80b4726656c38b598ec3c128920af4ab5cf3599c037e4f1c972240238b8"
+      },
+      "observations": []
+    }
+  ],
+  "recognition": {
+    "model": {
+      "label": "Whisper small",
+      "id": "whisper-small-mlx",
+      "revision": "45f3915923c7a79a5a5b5a7d909d39aeb0e5630e"
+    },
+    "examples": [
+      {
+        "pairId": "pair-03",
+        "typical": {
+          "hypothesis": " Hey Google, sing me a song.",
+          "inputSha256": "ba5c8e9fb91d5186d0e6ed3f215fb9f2fab804973b57df98b9c7acc2b5d2be73"
+        },
+        "atypical": {
+          "hypothesis": " Take Google to my account.",
+          "inputSha256": "9fcb8fdd33f5fb32d5ae0ca248c74e0539998829448123d40a6af1978238ddbd"
+        }
+      }
+    ],
+    "alternatives": []
+  },
+  "synthesis": {
+    "examples": [
+      {
+        "id": "synthesis-choice-03",
+        "method": "tts",
+        "language": "en",
+        "sentence": "Hey Google, sing me a song.",
+        "translations": {
+          "fr": "Dis Google, chante-moi une chanson.",
+          "en": ""
+        },
+        "model": {
+          "label": "StyleTTS 2, style conditions",
+          "id": "styletts2-sap",
+          "revision": "af529b75eb1286d81d2dc2863c087f1960f1d8e1d7abf31369ca4178e0a30c54"
+        },
+        "input": null,
+        "variants": [
+          {
+            "id": "choice-03-st2v1_ref_rm",
+            "label": {
+              "fr": "StyleTTS 2 : style de référence",
+              "en": "StyleTTS 2: reference style"
+            },
+            "description": {
+              "fr": "Le texte, l’extrait de référence du locuteur et le modèle restent fixes. La procédure de sélection du style change. La référence est un autre enregistrement ; cet exemple est une synthèse à partir de texte. La vérification à l’écoute reste à faire.",
+              "en": "The text, speaker reference and checkpoint stay fixed. The model uses a different style-selection path. The reference is a separate recording; this example is text-to-speech synthesis. Listening verification is pending."
+            },
+            "src": "/media/recordings/choice-03-st2v1_ref_rm.wav",
+            "kind": "synthesized",
+            "sha256": "4fd1bd7dec635598ae91a44c93ba74f704fc516baef41558119266998aa4726e",
+            "transcript": null
+          }
+        ]
+      },
+      {
+        "id": "synthesis-choice-06",
+        "method": "tts",
+        "language": "en",
+        "sentence": "Recipe with pineapple, bananas, and orange juice.",
+        "translations": {
+          "fr": "Une recette avec de l’ananas, des bananes et du jus d’orange.",
+          "en": ""
+        },
+        "model": {
+          "label": "StyleTTS 2, style conditions",
+          "id": "styletts2-sap",
+          "revision": "af529b75eb1286d81d2dc2863c087f1960f1d8e1d7abf31369ca4178e0a30c54"
+        },
+        "input": null,
+        "variants": [
+          {
+            "id": "choice-06-st2v1_ref_rm",
+            "label": {
+              "fr": "StyleTTS 2 : style de référence",
+              "en": "StyleTTS 2: reference style"
+            },
+            "description": {
+              "fr": "Le texte, l’extrait de référence du locuteur et le modèle restent fixes. La procédure de sélection du style change. La référence est un autre enregistrement ; cet exemple est une synthèse à partir de texte. La vérification à l’écoute reste à faire.",
+              "en": "The text, speaker reference and checkpoint stay fixed. The model uses a different style-selection path. The reference is a separate recording; this example is text-to-speech synthesis. Listening verification is pending."
+            },
+            "src": "/media/recordings/choice-06-st2v1_ref_rm.wav",
+            "kind": "synthesized",
+            "sha256": "3bcf31814a8e43295806e509d4bc4191cad68e34a072ad96942dce92e046b1ee",
+            "transcript": null
+          }
+        ]
+      }
+    ]
+  },
+  "reconstruction": {
+    "examples": []
+  },
+  "augmentation": {
+    "examples": []
+  },
+  "showcase": {
+    "reconstruction": {
+      "sentence": "Tab",
+      "language": "en",
+      "original": {
+        "src": "/media/recordings/rnv-tab-original.wav",
+        "kind": "human",
+        "sha256": "1fa2dbd12dad70fbcf53b75ed5ea0340570edd0813a4a856072ebefa80a14a2a"
+      },
+      "rhythm": {
+        "src": "/media/recordings/rnv-tab-rhythm.wav",
+        "kind": "converted",
+        "sha256": "de03c550bcd1824a461e7f7127bbb7752ce21e2d95bacdfd88dbf093a009bf67"
+      },
+      "voice": {
+        "src": "/media/recordings/rnv-tab-voice-normalized.wav",
+        "kind": "converted",
+        "sha256": "11317cece2e72b6f707bb4e0f5f9cc4e12824b708d04920ee01f8cc3167a4610"
+      }
+    },
+    "controls": {
+      "task": "pa-ta-ka",
+      "source": {
+        "src": "/media/recordings/rnv-pataka-original.wav",
+        "kind": "human",
+        "sha256": "e6bc2efada966046d0db87534d19d4ad4f6cd93fe8cc465849565830e0f40514"
+      },
+      "sweeps": [
+        {
+          "id": "vowels",
+          "values": [
+            {
+              "factor": 1,
+              "src": "/media/recordings/rnv-pataka-vowels-1.wav",
+              "kind": "converted",
+              "sha256": "3f93ae3a898f9a2ca21db294b64f64536b6e5e1771465a06e114cebd521e3267"
+            },
+            {
+              "factor": 1.25,
+              "src": "/media/recordings/rnv-pataka-vowels-1_25.wav",
+              "kind": "converted",
+              "sha256": "c072394999a138ae421dec4843c3283b3d7a12c35da8823dbe5b9d8666288f63"
+            },
+            {
+              "factor": 1.6,
+              "src": "/media/recordings/rnv-pataka-vowels-1_6.wav",
+              "kind": "converted",
+              "sha256": "8e8828d49b3feeb56fd1701d61643d119b65f46e81b058b95feb7a7bde8fb98d"
+            },
+            {
+              "factor": 2,
+              "src": "/media/recordings/rnv-pataka-vowels-2.wav",
+              "kind": "converted",
+              "sha256": "029c3e858892b0ff02f19bc6e11c6c7ef5dbb2c5a8c42d41109cd4769735a2e0"
+            },
+            {
+              "factor": 3,
+              "src": "/media/recordings/rnv-pataka-vowels-3.wav",
+              "kind": "converted",
+              "sha256": "06593eadd659fb97aeebea163d8e1b76c4a0427b4cc16af410d24af6ba4ec26f"
+            }
+          ]
+        },
+        {
+          "id": "consonants",
+          "values": [
+            {
+              "factor": 1,
+              "src": "/media/recordings/rnv-pataka-consonants-1.wav",
+              "kind": "converted",
+              "sha256": "3f93ae3a898f9a2ca21db294b64f64536b6e5e1771465a06e114cebd521e3267"
+            },
+            {
+              "factor": 1.25,
+              "src": "/media/recordings/rnv-pataka-consonants-1_25.wav",
+              "kind": "converted",
+              "sha256": "181af101de85733707e498241ff50ab017e39783219e9ce16e3750981e58e720"
+            },
+            {
+              "factor": 1.6,
+              "src": "/media/recordings/rnv-pataka-consonants-1_6.wav",
+              "kind": "converted",
+              "sha256": "7d912803a5db81d79161bc1c32f31b4d9fed6bf168bac79b7688a1e6c1d2baee"
+            },
+            {
+              "factor": 2,
+              "src": "/media/recordings/rnv-pataka-consonants-2.wav",
+              "kind": "converted",
+              "sha256": "59d419c6ed22dc83c8be79672aef07481e8913f84a4bc86753620491f63fcd1d"
+            },
+            {
+              "factor": 3,
+              "src": "/media/recordings/rnv-pataka-consonants-3.wav",
+              "kind": "converted",
+              "sha256": "ea3ee699b77e3b2e5b312f47721abffbae73a53adf9025cf72b30cfe47521a01"
+            }
+          ]
+        },
+        {
+          "id": "pauses",
+          "values": [
+            {
+              "factor": 1,
+              "src": "/media/recordings/rnv-pataka-pauses-1.wav",
+              "kind": "converted",
+              "sha256": "3f93ae3a898f9a2ca21db294b64f64536b6e5e1771465a06e114cebd521e3267"
+            },
+            {
+              "factor": 1.25,
+              "src": "/media/recordings/rnv-pataka-pauses-1_25.wav",
+              "kind": "converted",
+              "sha256": "117fd599b867f35608d6030ca6a3949ca09158efc11762cf96a74306c56e67d2"
+            },
+            {
+              "factor": 1.6,
+              "src": "/media/recordings/rnv-pataka-pauses-1_6.wav",
+              "kind": "converted",
+              "sha256": "74dd6ea9de11cae16953e0061929252e6fc1210f2a69592677fe19f88ce63fd2"
+            },
+            {
+              "factor": 2,
+              "src": "/media/recordings/rnv-pataka-pauses-2.wav",
+              "kind": "converted",
+              "sha256": "a72c446cc83f9855ddcf591604f90fb2d8d0f912dcd37ea50396c289b265340c"
+            },
+            {
+              "factor": 3,
+              "src": "/media/recordings/rnv-pataka-pauses-3.wav",
+              "kind": "converted",
+              "sha256": "830882565b1cb6bede19016c456a9302cb645d30e7c7ccba46e46ee06f0c541b"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
